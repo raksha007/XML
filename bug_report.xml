@@ -12,7 +12,7 @@
     <bug>
         <bugnr>2</bugnr>
         <project>Web Application 1</project>
-        <reporter>Andreas</reporter>
+        <reporter>Andreass</reporter>
         <description>Login does not work.</description>
     </bug>
    
