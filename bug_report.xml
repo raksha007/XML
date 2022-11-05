@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bugs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML-Schema-Rules.xsd">
+   
+    <bug priority="low">
+        <bugnr>1</bugnr>
+        <project>Web Application 1</project>
+        <reporter>Andreas</reporter>
+        <description>Application does not start.</description>   
+    </bug>
+   
+    <bug>
+        <bugnr>2</bugnr>
+        <project>Web Application 1</project>
+        <reporter>Andreas</reporter>
+        <description>Login does not work.</description>
+    </bug>
+   
+    <bug priority="high">
+        <bugnr>3</bugnr>
+        <project>Web Application 1</project>
+        <reporter>Michael</reporter>
+        <description>Registration does not work</description>
+    </bug>
+   
+</bugs>
